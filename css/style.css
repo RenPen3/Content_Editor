@@ -492,7 +492,7 @@ h6 { font-size: 16px; }
 .greenText{color: #1e90ff !important;}
 .purpleText{color: #8067f0 !important;}
 .orangeText{color: #000000 !important; padding: 10px 0;}
-.orangeText span {color: #e73808 !important;font-weight: 700;}
+.orangeText span {color: #e73808 !important;font-weight: 700;font-size:36px;}
 .yellowText{color: #f0c45c !important;}
 .orangeBackground{background-color: #fedfd7 !important;}
 .greenBackground{background-color: #ddf5e6 !important;}
