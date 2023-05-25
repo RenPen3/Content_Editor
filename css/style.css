@@ -492,7 +492,7 @@ h6 { font-size: 16px; }
 .greenText{color: #1e90ff !important;}
 .purpleText{color: #8067f0 !important;}
 .orangeText{color: #000000 !important; padding: 10px 0;}
-.orangeText span {color: #e73808 !important;font-weight: 700;font-size:36px;}
+.orangeText span {color: #e73808 !important;font-weight: 700;font-size:30px;}
 .yellowText{color: #f0c45c !important;}
 .orangeBackground{background-color: #fedfd7 !important;}
 .greenBackground{background-color: #ddf5e6 !important;}
@@ -3120,7 +3120,7 @@ input[type=number] {
 	.dizme_tm_hero .button{justify-content: center;}
 	.dizme_tm_hero .hello h3{font-size: 25px;}
 	.dizme_tm_hero .name{margin-bottom: 11px;}
-	.dizme_tm_hero .name h3{font-size: 55px;}
+	.dizme_tm_hero .name h3{font-size: 50px;}
 	.dizme_tm_hero .job{margin-bottom: 23px;}
 	.dizme_tm_hero .job p{font-size: 23px;}
 	.dizme_tm_hero .text{margin-bottom: 40px;}
@@ -3186,7 +3186,7 @@ input[type=number] {
 	.dizme_tm_hero .job p{font-size: 18px;}
 	.dizme_tm_hero .hello h3{font-size: 21px;}
 	.dizme_tm_hero .text p{font-size: 16px;}
-	.dizme_tm_hero .name h3{font-size: 30px;}
+	.dizme_tm_hero .name h3{font-size: 40px;}
 	.dizme_tm_hero .social{padding-left: 15px;}
 	.dizme_tm_portfolio .portfolio_list ul{margin: 0px;}
 	.dizme_tm_portfolio .portfolio_list ul li{width: 100%;padding-left: 0px;}
